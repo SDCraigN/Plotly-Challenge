@@ -61,6 +61,8 @@ The following task is advanced and therefore optional.
 
 * Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
 
+LINK: http://127.0.0.1:5500/plot.ly-challenge/Belly_Button_Biodiversity/index.html 
+
 * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
 ## Hints
